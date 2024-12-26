@@ -25,7 +25,7 @@ Hasil prediksi *pIC50* untuk molekul-molekul terbaik disimpan dalam format CSV d
 4. [pIC50 Top 4 - Temu Kunci (3D)](Result/pIC50_top_4_TEMU_KUNCI_3D.html)
 5. [pIC50 Top 5 - Daun Ketapang (3D)](Result/pIC50_top_5_DAUN_KETAPANG_3D.html)
 
-![Molekul pIC50 Tertinggi](Result/pIC50_top_1_TEMU_KUNCI_3D.png)
+![Molekul pIC50 Tertinggi](Result/top_predict_pIC50_2D.png)
 
 Prediksi lengkap tersedia di file:  
 - [predicted_pIC50_results.csv](Result/predicted_pIC50_results.csv)
@@ -42,7 +42,7 @@ Hasil analisis kesamaan molekul terhadap *Vorinostat* menggunakan *Tanimoto Simi
 4. [Tanimoto Top 4 (3D)](Result/Tanimoto_top_2193_3D.html)
 5. [Tanimoto Top 5 (3D)](Result/Tanimoto_top_2204_3D.html)
 
-![Molekul Tanimoto Similarity Tertinggi](Result/Tanimoto_top_491_3D.png)
+![Molekul Tanimoto Similarity Tertinggi](Result/top_tanimoto_similarity_2d.png)
 
 Hasil lengkap tersedia di file:  
 - [tanimoto_similarity_results.csv](Result/tanimoto_similarity_results.csv)
