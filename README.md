@@ -1,4 +1,4 @@
-# HDAC Bioactivity Prediction
+# Potensi Senyawa Herbal sebagai Inhibitor HDAC untuk Terapi Kanker Payudara: Pendekatan In Silico dan Pemodelan pIC50
 
 ## **Deskripsi Proyek**
 Proyek ini bertujuan untuk memprediksi aktivitas biologis (*pIC50*) molekul terhadap target *Histone Deacetylase* (HDAC) menggunakan metode *Machine Learning*. Molekul yang diuji berasal dari [tanaman-tanaman herbal](Data/tanaman_herbal_indonesia_updated.csv) yang ada di Indonesia, Dilakukan analisis prediksi pICL50 untuk mengetahui inhibitor terbaik terhadap HDAC1, HDAC2 dan, HDAC6 juga dengan analisis kesamaan struktural menggunakan *Tanimoto Similarity* terhadap senyawa referensi *Vorinostat*.
