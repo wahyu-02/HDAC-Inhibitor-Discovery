@@ -34,6 +34,7 @@ Prediksi lengkap tersedia di file:
 
 ### **Tanimoto Similarity**
 Hasil analisis kesamaan molekul terhadap *Vorinostat* menggunakan *Tanimoto Similarity* disimpan dalam format CSV dan HTML.
+Penelitian ini mengkonfirmasi potensi Temu Kunci (Boesenbergia pandurata) sebagai agen anti kanker. Pada analisis komputasi in silico, senyawa aktif dari Temu Kunci, seperti CHEMBL274445, terbukti memiliki potensi sebagai inhibitor HDAC dengan nilai pIC50 tertinggi sebesar 8.83.
 
 #### **Top 5 Molekul Berdasarkan Tanimoto Similarity**
 1. [Tanimoto Top 1 (3D)](Result/Tanimoto_top_491_3D.html)
