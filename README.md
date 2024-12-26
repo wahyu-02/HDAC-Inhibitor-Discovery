@@ -1,7 +1,7 @@
 # HDAC Bioactivity Prediction
 
 ## **Deskripsi Proyek**
-Proyek ini bertujuan untuk memprediksi aktivitas biologis (*pIC50*) molekul terhadap target *Histone Deacetylase* (HDAC) menggunakan metode *Machine Learning*. Molekul yang diuji berasal dari sumber herbal seperti **Temu Kunci** dan **Daun Ketapang**, dengan analisis kesamaan struktural menggunakan *Tanimoto Similarity* terhadap senyawa referensi *Vorinostat*.
+Proyek ini bertujuan untuk memprediksi aktivitas biologis (*pIC50*) molekul terhadap target *Histone Deacetylase* (HDAC) menggunakan metode *Machine Learning*. Molekul yang diuji berasal dari [tanaman-tanaman herbal](Data/tanaman_herbal_indonesia_updated.csv) yang ada di Indonesia, Dilakukan analisis prediksi pICL50 untuk mengetahui inhibitor terbaik terhadap HDAC1, HDAC2 dan, HDAC6 juga dengan analisis kesamaan struktural menggunakan *Tanimoto Similarity* terhadap senyawa referensi *Vorinostat*.
 
 ---
 
